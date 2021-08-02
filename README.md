@@ -25,10 +25,10 @@ It is a simple space shooter. Doubt you can finish it XD. Enjoy!
 
 - dl-sounds.com/royalty-free/moon-garden/
 
-# Graphics
+### Graphics
 - SkyBox Volume 2
 
-#Spline movement script
+### Spline movement script
 I used the script of this video for the initial screen, and adapted to 3D:
 https://www.youtube.com/watch?v=11ofnLOE8pw
 
