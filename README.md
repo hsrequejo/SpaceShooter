@@ -4,19 +4,19 @@ This is a game prototype made following the Udemy course part 1  https://www.ude
 
 It is a simple space shooter. Doubt you can finish it XD. Enjoy!
 
-##Some external assets I used in this demo game:
+## Some external assets I used in this demo game:
 
-###Font
+### Font
 -Revamped - https://www.dafont.com/revamped.font
 
 
 
-###Force Field shader
+### Force Field shader
 - https://github.com/vux427/ForceFieldFX
 
 
 
-###Sounds
+### Sounds
 -Sci-Fi Freedom World Sounds - Free Package
 
 -Freesound.org
