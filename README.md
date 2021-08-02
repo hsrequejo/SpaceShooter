@@ -7,7 +7,7 @@ It is a simple space shooter. Doubt you can finish it XD. Enjoy!
 ## Some external assets I used in this demo game:
 
 ### Font
--Revamped - https://www.dafont.com/revamped.font
+- Revamped - https://www.dafont.com/revamped.font
 
 
 
@@ -17,11 +17,11 @@ It is a simple space shooter. Doubt you can finish it XD. Enjoy!
 
 
 ### Sounds
--Sci-Fi Freedom World Sounds - Free Package
+- Sci-Fi Freedom World Sounds - Free Package
 
--Freesound.org
+- Freesound.org
 
--zapsplat.com
+- zapsplat.com
 
 - dl-sounds.com/royalty-free/moon-garden/
 
