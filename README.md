@@ -25,5 +25,7 @@ It is a simple space shooter. Doubt you can finish it XD. Enjoy!
 
 - dl-sounds.com/royalty-free/moon-garden/
 
+# Graphics
+- SkyBox Volume 2
 
 *I don't remember where I got the planets and galaxies that run in the background, sorry! 
