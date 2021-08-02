@@ -28,4 +28,8 @@ It is a simple space shooter. Doubt you can finish it XD. Enjoy!
 # Graphics
 - SkyBox Volume 2
 
+#Spline movement script
+I used the script of this video for the initial screen, and adapted to 3D:
+https://www.youtube.com/watch?v=11ofnLOE8pw
+
 *I don't remember where I got the planets and galaxies that run in the background, sorry! 
